@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import ItemComponent from "@/components/IteamComponent.vue";
+import ItemComponent from "@/components/ItemComponent.vue";
 
 export default {
   name: "StartMenu",
@@ -91,7 +91,7 @@ button {
 }
 
 button:hover {
-  background-color: #218838; /* Couleur du bouton au survol */
+  background-color: #1A78FF;
 }
 
 .right-column {
